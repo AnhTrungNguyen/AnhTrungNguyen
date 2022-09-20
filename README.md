@@ -64,8 +64,7 @@ WELCOM TO MY ACCOUNT GIT HUB !
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <p align="center">Dreams are my life force. How about you?</p>
-  <p align="center">Ước mơ là sức sống của tôi. Còn bạn thì sao?</p>
-  <p align="center">-Trung Web Dev</p>
-</a>
+  <h3 align="center">Dreams are my life force. How about you?</h3>
+  <h3 align="center">Ước mơ là sức sống của tôi. Còn bạn thì sao?</h3>
+  <h5 align="center">-Trung Web Dev-</h5>
 
