@@ -1,7 +1,7 @@
 Hi there 👋
 
 🐍 fullName = "Nguyen Anh Trung"; 🐍  
-/-cake  yearOfBirth = 2001; /-cake 
+🙈   yearOfBirth = 2001; 🙈   
 🏫  school = "NLU - Dai hoc Nong Lam TPHCM"; 🏫 
 🐬  languages = ["Java", "JavaScript", "C#", "Python",  "TypeScript", "SQL"]; 🐬 
 👝 frameworks = ["Spring Boot", "Express", "TailwindCSS"]; 👝 
