@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**AnhTrungNguyen/AnhTrungNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 fullName = "Nguyen Anh Trung"; 🐍  
+/-cake  yearOfBirth = 2001; /-cake 
+🏫  school = "NLU - Dai hoc Nong Lam TPHCM"; 🏫 
+🐬  languages = ["Java", "JavaScript", "C#", "Python",  "TypeScript", "SQL"]; 🐬 
+👝 frameworks = ["Spring Boot", "Express", "TailwindCSS"]; 👝 
+🐝 frontend = ["HTML/CSS", "Vue", "React"]; 🐝 
+🌊  backend = ["Node", "MySQL", "SQL Server", "MongoDB", "Firebase"] 🌊 
+📱 mobile = ["Java", "Kotlin"]; 📱 
+🌍  other = ["Git/Github", "Figma", "Adobe XD", "Material UI", "GraphQL"] 🌍 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+WELCOM TO MY ACCOUNT GIT HUB ! 
