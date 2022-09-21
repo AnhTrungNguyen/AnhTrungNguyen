@@ -59,9 +59,10 @@ WELCOM TO MY ACCOUNT GIT HUB !
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=AnhTrungNguyen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
+<br>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
 <a href="#" target="_blank">
   <h3 align="center">Dreams are my life force. How about you?</h3>
   <h3 align="center">Ước mơ là sức sống của tôi. Còn bạn thì sao?</h3>
