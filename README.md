@@ -55,10 +55,11 @@ WELCOM TO MY ACCOUNT GIT HUB !
 <br>
 <div align=center>
   <a href="#" title="AnhTrungNguyen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTrungNguyen&theme=tokyonight&layout=compact&langs_count=10"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AnhTrungNguyen&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anhduy1202&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
   </a>
     <br><br>
   <a href="#" title="AnhTrungNguyen">
-    <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnhTrungNguyen&show_icons=true&hide_border=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTrungNguyen&theme=tokyonight&layout=compact&langs_count=10">
   </a>
 </div>
