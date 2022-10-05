@@ -55,7 +55,7 @@ WELCOM TO MY ACCOUNT GIT HUB !
 <br>
 <div align=center>
   <a href="#" title="AnhTrungNguyen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnhTrungNguyen&repo=github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=AnhTrungNguyen&show_icons=true&theme=radical"> 
   </a>
     <br><br>
   <a href="#" title="AnhTrungNguyen">
