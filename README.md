@@ -55,7 +55,7 @@ WELCOM TO MY ACCOUNT GIT HUB !
 <br>
 <div align=center>
   <a href="#" title="AnhTrungNguyen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTrungNguyen&theme=tokyonight&layout=compact&langs_count=10"> />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTrungNguyen&theme=tokyonight&layout=compact&langs_count=10"/>
   </a>
     <br><br>
   <a href="#" title="AnhTrungNguyen">
