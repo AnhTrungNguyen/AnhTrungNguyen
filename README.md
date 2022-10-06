@@ -55,10 +55,10 @@ WELCOM TO MY ACCOUNT GIT HUB !
 <br>
 <div align=center>
   <a href="#" title="AnhTrungNguyen">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnhTrungNguyen&show_icons=true&theme=radical"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=AnhTrungNguyen&show_icons=true&theme=tokyonight"> 
   </a>
     <br><br>
   <a href="#" title="AnhTrungNguyen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTrungNguyen&langs_count=10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTrungNguyen&layout=compact&langs_count=10">
   </a>
 </div>
