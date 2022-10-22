@@ -1,4 +1,4 @@
-Hi there 👋
+Hello everyone 👋
 
 🐍 fullName = "Nguyen Anh Trung"; 🐍  
 🙈   yearOfBirth = 2001; 🙈   
